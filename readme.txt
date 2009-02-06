@@ -1,8 +1,7 @@
 === Social Profilr ===
 Contributor: Active Innovation
 Donate link: http://socialprofilr.com/donate/
-Tags: social bookmarks, social bookmarking, 
-bookmarking, bookmarks, bookmark, social
+Tags: social bookmarks, social bookmarking, bookmarking, bookmarks, bookmark, social
 Requires at least: 2.5
 Tested up to: 2.7
 Stable tag: 1.0
