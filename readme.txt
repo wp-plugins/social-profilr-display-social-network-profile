@@ -48,6 +48,15 @@ Insert custom description above social icons.
 Enjoy!
 
 
+== Screenshots ==
+
+1. Vertical view
+2. Horizontal view
+3. Dropdown view
+4. Dropdown view
+5. Setup
+6. Statistics
+
 == Donation ==
 
 Your donation will not only put bread on the table but compel me to create 
