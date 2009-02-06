@@ -7,7 +7,7 @@ Requires at least: 2.5
 Tested up to: 2.7
 Stable tag: 1.0
 
- 
+Sidebar Widget To Display Eye Candy Icon to Display Your Social Network Profile 
 
 == Description ==
 
@@ -31,7 +31,7 @@ Statistics are provided via the 'socialprofilr statistics' link
 under 'tools'within the admin dashboard.  This will show display
 which social network profile has been linked on per day. 
 
-***Only Available If Downloaded From Website***
+***Version With Statistics Only Available If Downloaded From Website***
 
 Insert custom description above social icons.
 
